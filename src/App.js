@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -41,7 +40,7 @@ function App() {
           {cocktails.map((cocktail) => (
             <div key={cocktail.idDrink} className="card">
               <h2>{cocktail.strDrink}</h2>
-              <img width="200px" src={cocktail.strDrinkThumb}/>
+              <img alt="cocktail" width="200px" src={cocktail.strDrinkThumb}/>
             </div>
           ))}
         </div>
