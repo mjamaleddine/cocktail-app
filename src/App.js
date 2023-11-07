@@ -27,7 +27,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h2>Meine Cocktail App</h2>
+        <h2>Our Cocktail App</h2>
         <form onSubmit={handleSearch}>
           <input
             name="ingredient"
