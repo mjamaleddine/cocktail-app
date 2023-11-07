@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.d3a3935b.css",
-    "main.js": "/static/js/main.8e45d523.js",
-    "static/js/787.0c5f055d.chunk.js": "/static/js/787.0c5f055d.chunk.js",
-    "index.html": "/index.html",
-    "main.d3a3935b.css.map": "/static/css/main.d3a3935b.css.map",
-    "main.8e45d523.js.map": "/static/js/main.8e45d523.js.map",
-    "787.0c5f055d.chunk.js.map": "/static/js/787.0c5f055d.chunk.js.map"
+    "main.css": "/cocktail-app/static/css/main.d3a3935b.css",
+    "main.js": "/cocktail-app/static/js/main.fa84e6e8.js",
+    "static/js/787.0c5f055d.chunk.js": "/cocktail-app/static/js/787.0c5f055d.chunk.js",
+    "index.html": "/cocktail-app/index.html",
+    "main.d3a3935b.css.map": "/cocktail-app/static/css/main.d3a3935b.css.map",
+    "main.fa84e6e8.js.map": "/cocktail-app/static/js/main.fa84e6e8.js.map",
+    "787.0c5f055d.chunk.js.map": "/cocktail-app/static/js/787.0c5f055d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d3a3935b.css",
-    "static/js/main.8e45d523.js"
+    "static/js/main.fa84e6e8.js"
   ]
 }
